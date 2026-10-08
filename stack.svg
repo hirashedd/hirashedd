@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132" role="img" aria-label="PHP, MySQL, Next.js, Kotlin, Jetpack Compose">
+  <rect width="1200" height="132" rx="18" fill="#141612"/>
+  <text x="36" y="46" fill="#8d877c" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3">STACK</text>
+  <g fill="#f6f1e7" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="20">
+    <text x="36" y="92">PHP</text>
+    <text x="130" y="92">MySQL</text>
+    <text x="270" y="92">Next.js</text>
+    <text x="420" y="92">Kotlin</text>
+    <text x="560" y="92">Jetpack Compose</text>
+  </g>
+  <rect x="0" y="0" width="90" height="132" fill="#e4c27a" opacity="0.16">
+    <animate attributeName="x" values="-90;1200" dur="3.8s" repeatCount="indefinite"/>
+  </rect>
+</svg>

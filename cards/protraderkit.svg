@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="188" viewBox="0 0 640 188" role="img" aria-label="ProTraderKit">
+  <rect width="640" height="188" rx="18" fill="#141612"/>
+  <rect x="1.5" y="1.5" width="637" height="185" rx="17" fill="none" stroke="#2a2c26" stroke-width="1.5"/>
+  <rect x="1.5" y="1.5" width="637" height="185" rx="17" fill="none" stroke="#e4c27a" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="90 1500" stroke-dashoffset="0">
+    <animate attributeName="stroke-dashoffset" from="0" to="-1590" dur="6.5s" begin="1.4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="32" y="48" fill="#d7b06a" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3">05</text>
+  <text x="32" y="92" fill="#f6f1e7" font-family="Georgia, Palatino, Palatino Linotype, serif" font-size="34">ProTraderKit</text>
+  <text x="32" y="128" fill="#b7b1a4" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Nifty and Bank Nifty research. Not tips.</text>
+  <text x="32" y="160" fill="#8d877c" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">protraderkit.com</text>
+  <text x="590" y="160" fill="#d7b06a" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" text-anchor="end">→</text>
+</svg>
